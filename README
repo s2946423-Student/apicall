@@ -1,0 +1,1 @@
+This repository requests an authentication token from cisco sandbox. It then turns the token into a variable. That token is then used in a seperate request for a device count
